@@ -11,16 +11,23 @@ body {
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: navy;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    color: lightblue;
 }
 
 .stats-container {
     display: flex;
+    align-items: normal;
+}
+
+.stats-container :hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +79,9 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.button-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
