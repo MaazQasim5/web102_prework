@@ -26,9 +26,10 @@ I included a search feature that searches for key words/characters in any of the
 Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/gallery/codepath-web102-prework-DKrArkA' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<link>https://imgur.com/gallery/codepath-web102-prework-DKrArkA</link>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
